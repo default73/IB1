@@ -1,1 +1,1 @@
-C:\Program Files (x86)\Qt Designer>python -m PyQt5.uic.pyuic -x untitled.ui -o C:\Users\AAristarkhov\PycharmProjects\IB1\test.py
+C:\Program Files (x86)\Qt Designer>python -m PyQt5.uic.pyuic -x lab3_ib.ui -o C:\Users\AAristarkhov\PycharmProjects\IB1\lab3.py
